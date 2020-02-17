@@ -1,0 +1,166 @@
+/***********TAG SELECTORS***********/
+body {
+  margin: 0;
+}
+
+h1 {
+  color:#F25D07;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  margin: 0;
+}
+
+h2 {
+  font-family: 'Sarabun', sans-serif;
+  font-size:1.25em;
+  color: #075473;
+  margin-top: 20px;
+
+}
+
+h3 {
+  font-family: 'Sarabun', sans-serif;
+  font-size: 1.25em;
+  color: #F2A007;
+}
+
+a {
+  color:#075473;
+}
+
+p {
+  font-family: 'Neuton', serif;
+  font-size: 1.25em;
+}
+
+hr {
+
+  border: dotted #c0c0c0;
+  border-width: 0 0 8px 0;
+  width: 5%;
+  margin-top: 20px
+}
+
+.footer-copy {
+  color: #ffffff;
+}
+
+/***********CLASS SELECTORS***********/
+.top-container {
+  background-color: #e8e2db;
+  text-align: center;
+  padding-top: 50px;
+  }
+
+.secondtitle {
+  font-weight: normal;
+    }
+
+.castle {
+  display: inline-block;
+  opacity: 0.3;
+  height: 300px;
+    }
+
+.knight {
+  height: 150px;
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+}
+
+.knight1 {
+  height: 150px;
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+}
+
+.knight2 {
+  height: 160px;
+  display: inline-block;
+  position: relative;
+  bottom: 50px;
+}
+.middle-container {
+  margin-top:20px;
+}
+.profileimg {
+  width: 300px;
+  border-radius: 50%;
+
+}
+
+.skill-row {
+  max-width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  }
+
+.skillsimg {
+  display: block;
+  margin: auto;
+  float: left;
+  margin-right: 30px;
+  height: 140px;
+  width: 140px;
+  padding: 20px;
+          }
+
+.iytlogo {
+
+  height: 300px;
+  display: block;
+  margin: auto;
+  float: right;
+  margin-left: 30px;
+  }
+
+  .skills {
+    text-align: center;
+  }
+
+  .profile {
+    margin:0 auto;
+    text-align: center;
+  }
+
+  .contact-me {
+    text-align: center;
+    margin: 20px;
+  }
+
+  .bottom-container {
+    text-align: center;
+    background-color: #c0c0c0;
+    padding: 50px 0;
+    margin: 10px;
+      }
+
+  .footer-link {
+    padding: 20px;
+      }
+
+  .consultant {
+        padding-top: 20px;
+      }
+
+  .btn {
+
+    background-color:#F2A007;
+    border-radius: 8px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+  }
+
+  .intro {
+    width: 30%;
+    margin: auto;
+  }
+
+
+/***********ID SELECTORS***********/
